@@ -4,7 +4,10 @@ layout: archive
 
 <h3 class="archive__subtitle">About</h3>
 
-{%include home.md %}
+{{ content }}
+{% capture home_include %}{% include home.md %} {% endcapture %}
+{{ home_include | markdownify }}
+
 {% for post in paginator.posts %}
   {% include archive-single.html %}
 {% endfor %}
