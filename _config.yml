@@ -11,9 +11,9 @@ title                    : "Christopher's website"
 title_separator          : "-"
 name                     : "Christopher D. Cooper"
 description              : "Here, I'll do my best to describe my activities as a mechanical engineering professor at Universidad Técnica Federico Santa María. Expect to find information on my research and teaching, among other stuff."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+url                      : "https://cdcooper84.github.io"
+baseurl                  : "" 
+repository               : "cdcooper84/cdcooper84.github.io" 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "Christopher D. Cooper"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/photo.svg" 
   bio              : "Mechanical engineering prof @USM in Chile. Into (bio)physics, algorithms and math."
   location         : "Valparaíso, Chile"
   email            : "christopher.cooper@usm.cl"
