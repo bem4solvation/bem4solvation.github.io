@@ -11,9 +11,9 @@ title                    : "Christopher's website"
 title_separator          : "-"
 name                     : "Christopher D. Cooper"
 description              : "Christopher's website"
-url                      : "https://cdcooper84.github.io"
+url                      : "https://bem4solvation.github.io"
 baseurl                  : "" 
-repository               : "cdcooper84/cdcooper84.github.io" 
+repository               : "bem4solvation/bem4solvation.github.io" 
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
