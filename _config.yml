@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Christopher's website"
+title                    : "Research group website"
 title_separator          : "-"
-name                     : "Christopher D. Cooper"
-description              : "Christopher's website"
+name                     : "Computational biophysics @ USM"
+description              : ""
 url                      : "https://bem4solvation.github.io"
 baseurl                  : "" 
 repository               : "bem4solvation/bem4solvation.github.io" 
@@ -77,25 +77,25 @@ analytics:
 
 # Site Author
 author:
-  name             : "Christopher D. Cooper"
-  avatar           : "/assets/images/photo.svg" 
-  bio              : "Mechanical engineering prof @USM in Chile. Into (bio)physics, algorithms and math."
+  name             : "Computational biophysics group at USM"
+  avatar           : "" #"/assets/images/photo.svg" 
+  bio              : "Computational modeling of molecular electrostatics and solvation"
   location         : "Valparaíso, Chile"
-  email            : "christopher.cooper@usm.cl"
+  email            : 
   uri              :
-  bitbucket        : "cdcooper"
+  bitbucket        : # "cdcooper"
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "cdcooper84"
+  github           : # "cdcooper84"
   gitlab           :
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "christopher-cooper-54594923"
+  linkedin         : # "christopher-cooper-54594923"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)

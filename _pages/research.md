@@ -3,9 +3,11 @@ title: Research
 permalink: /research/
 ---
 
-My research touches a wide variety of applications: from biomolecular physics, to fluids, to electromagnetic scattering. I tackle these problems from a numerical modeling perspective, using boundary element methods, fast algorithms and high performance computing. Next, I give details of some of these applications.
+Our research is highly interdisciplinary, and touches a wide variety of topics: from biomolecular physics, to math, to computational science. Most of our work is related to the solution of the Poisson-Boltzmann equation using boundary integral methods.
 
-This research has been funded by CONICYT, through their FONDECYT and FONDEF programs, and USM, by means of internal funding from the DGIP (Office of Research and Postgraduate programs). Their support is highly appreciated.
+This research has been funded by ANID, through their FONDECYT and FONDEF programs, and USM, by means of internal funding from the DGIIE (Office of Research, Innovation and Entrepreneurship). Their support is highly appreciated.
+
+For an up-to-date list of publications, visit Christopher's [google scholar profile](https://scholar.google.com/citations?user=_sAB1sAAAAAJ&hl=en&oi=ao)
 
 ## Biomolecular physics
 
