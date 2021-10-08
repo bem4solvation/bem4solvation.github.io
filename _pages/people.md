@@ -8,13 +8,12 @@ permalink: /people/
 ![](../assets/images/foto_chris.jpeg){:width="200px"}
 
 <span style="font-size: 12pt;">
-<a href="http://github.com/cdcooper84"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/in/christopher-cooper-54594923" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
+<a href="http://github.com/cdcooper84"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/in/christopher-cooper-54594923" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a><a href="https://twitter.com/cooperchrisd" itemprop="sameAs"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a>  
 BS, PEng (USM), MS, PhD (Boston University) Mechanical Engineering. <a href="../CV_cooper.pdf" style="color:#52adc8;">CV</a>.
 </span>
 
 
-
-## PhD student
+## PhD students
 
 
 ### Sergio Urzúa
@@ -100,9 +99,20 @@ Topic: force calculation
 ## Past members
  * Felipe Vicencio (BS, PEng). Topic: polarizable force fields.
  * Matías Martínez (MS). Topic: virus-scale simulations, parallel computing
- * Javier Gómez (MS). Topic: Stokes flow
+ * Javier Gómez (MS). Topic: Stokes flow in biological systems
  * Rodrigo Huencho (BS). Topic: dielectric constant parameterization
  * Valentina Oyarzún (BS, PEng). Topic: nonpolar solvation 
  * Joaquín Echaíz (BS, PEng). Topic: nonpolar solvation 
  * Vicente Ramm (BS, PEng). Topic: error estimation, adaptive mesh refinement
  * Nicolás Espinoza (BS, PEng). Topic: membrane proteins
+
+
+## Collaborators
+ * Lorena A. Barba (GWU, US)
+ * Jaydeep P. Bardhan (PNNL, US)
+ * Timo Betcke (UCL, UK)
+ * Jehanzeb H. Chaudhry (UNM, US)
+ * Carlos D. García (Clemson, US)
+ * Horacio V. Guzmán (JZI, Slovenia)
+ * Elwin van't Wout (PUC, Chile)
+
