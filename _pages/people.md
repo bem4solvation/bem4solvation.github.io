@@ -98,7 +98,6 @@ Topic: force calculation
 </span>
 
 ## Past members
-<span style="font-size: 12pt;"> 
  * Felipe Vicencio (BS, PEng). Topic: polarizable force fields.
  * Matías Martínez (MS). Topic: virus-scale simulations, parallel computing
  * Javier Gómez (MS). Topic: Stokes flow
@@ -107,4 +106,3 @@ Topic: force calculation
  * Joaquín Echaíz (BS, PEng). Topic: nonpolar solvation 
  * Vicente Ramm (BS, PEng). Topic: error estimation, adaptive mesh refinement
  * Nicolás Espinoza (BS, PEng). Topic: membrane proteins
-  
