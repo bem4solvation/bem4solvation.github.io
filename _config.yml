@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Research group website"
+title                    : "Computational biophysics group at USM"
 title_separator          : "-"
 name                     : "Computational biophysics @ USM"
 description              : ""
@@ -77,9 +77,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Computational biophysics group at USM"
-  avatar           : "" #"/assets/images/photo.svg" 
-  bio              : "Computational modeling of molecular electrostatics and solvation"
+  name             : #"Computational biophysics group at USM"
+  avatar           : "/assets/images/logo-utfsm.png" 
+  bio              : "Computational modeling of molecular electrostatics and solvation in USM"
   location         : "Valparaíso, Chile"
   email            : 
   uri              :

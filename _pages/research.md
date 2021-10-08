@@ -3,7 +3,7 @@ title: Research
 permalink: /research/
 ---
 
-Our research is highly interdisciplinary, and touches a wide variety of topics: from biomolecular physics, to math, to computational science. Most of our work is related to the solution of the Poisson-Boltzmann equation using boundary integral methods.
+Our research is highly interdisciplinary, and touches a wide variety of topics: from biomolecular physics, to math, to computational science. Most of our work is related to the solution of the Poisson-Boltzmann equation using boundary integral methods, and applications of this in biophysics.
 
 This research has been funded by ANID, through their FONDECYT and FONDEF programs, and USM, by means of internal funding from the DGIIE (Office of Research, Innovation and Entrepreneurship). Their support is highly appreciated.
 
