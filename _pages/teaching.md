@@ -12,3 +12,6 @@ Fourth year undergraduate course for mechanical engineering majors, introducing 
 
 ### Fast algorithms
 Graduate level course for mechanical engineering and computer science students. In this course, we discuss different algorithms to accelerate linear solvers and N-body problems. In particular, we cover Multigrid, FFT-based methos, Treecodes, Fast Multipole Methods, Fast Ewald Summations, and Hierarchical Matrices. Some demos I developed for this course are available in my [Github account](https://github.com/cdcooper84/fast_algorithms), and the class projects can be found in this [link](https://github.com/usantamaria/IPM-407_Fast_algorithms).
+
+### Statistical mechanics
+Graduate level course for mechanical engineering students. In this course we review the fundamentals of statistical mechanics, and some applications in thermodynamics, fluid and solid mechanics, and electrostatics. 
