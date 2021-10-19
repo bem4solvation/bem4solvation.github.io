@@ -39,7 +39,7 @@ Topic: FEM-BEM coupling
 ### Miguel Godoy
 
 <span style="font-size: 12pt;">
-<a href="http://github.com/mgodoydiaz"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/miguel-godoy-díaz-811730130" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
+<a href="http://github.com/mgodoydiaz"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/in/miguel-godoy-d%C3%ADaz-811730130/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
 BS, PEng, Mechanical Engineering (USM).  
 Topic: uncertainty quantification, PBJ development 
 </span>
@@ -51,7 +51,7 @@ Topic: uncertainty quantification, PBJ development
 ![](../assets/images/foto_kenneth.jpg){:width="200px"}
 
 <span style="font-size: 12pt;"> 
-<a href="http://github.com/kstylesc"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/kennethstyles" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
+<a href="http://github.com/kstylesc"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/in/kennethstyles" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
 Topic: hydration asymmetry, PBJ development
 </span>
 
