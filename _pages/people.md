@@ -59,7 +59,7 @@ Topic: hydration asymmetry, PBJ development
 ![](../assets/images/foto_camila.jpg){:width="200px"}
 
 <span style="font-size: 12pt;"> 
-<a href="http://github.com/bem4solvation"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
+<a href="http://github.com/bem4solvation"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/in/camila-pérez-verdejo-b238221b8/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
 Topic: RNA-virus interaction 
 </span>
 
