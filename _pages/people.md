@@ -5,7 +5,7 @@ permalink: /people/
 ## Principal investigator
 
 ### Christopher D. Cooper
-![](../assets/images/foto_chris.jpeg){:width="200px"}
+![](../assets/images/chris_pic.jpeg){:width="200px"}
 
 <span style="font-size: 12pt;">
 <a href="http://github.com/cdcooper84"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/in/christopher-cooper-54594923" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a><a href="https://twitter.com/cooperchrisd" itemprop="sameAs"><i class="fa fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a>  
