@@ -37,6 +37,7 @@ Topic: FEM-BEM coupling
 </span>
 
 ### Miguel Godoy
+![](../assets/images/foto_miguel.jpg){:width="200px"}
 
 <span style="font-size: 12pt;">
 <a href="http://github.com/mgodoydiaz"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/in/miguel-godoy-d%C3%ADaz-811730130/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
