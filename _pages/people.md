@@ -91,9 +91,10 @@ Topic: free energy calculations, nonpolar solvation
 </span>
 
 ### Ian Addison-Smith
+![](../assets/images/foto_ian.jpeg){:width="200px"}
 
 <span style="font-size: 12pt;"> 
-<a href="http://github.com/"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
+<a href="http://github.com/iaddison-smith"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/in/ian-addison-smith-a4abb4180/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
 Topic: force calculation
 </span>
 
