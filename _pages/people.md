@@ -25,8 +25,6 @@ BS, PEng, Mechanical Engineering (USM).
 Topic: protein-surface interaction
 </span>
 
-## MS students
-
 ### Mauricio Guerrero
 ![](../assets/images/foto_mauricio.jpg){:width="200px"}
 
@@ -35,6 +33,8 @@ Topic: protein-surface interaction
 BS, Mechanical Engineering (USM).  
 Topic: FEM-BEM coupling
 </span>
+
+## MS students
 
 ### Miguel Godoy
 ![](../assets/images/foto_miguel.jpg){:width="200px"}
