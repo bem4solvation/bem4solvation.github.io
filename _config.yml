@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Computational biophysics group at USM"
+title                    : "Numerical molecular modeling group at USM"
 title_separator          : "-"
-name                     : "Computational biophysics @ USM"
+name                     : "Numerical molecular modeling @ USM"
 description              : ""
 url                      : "https://bem4solvation.github.io"
 baseurl                  : "" 
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : #"Computational biophysics group at USM"
   avatar           : "/assets/images/logo-utfsm.png" 
-  bio              : "Computational modeling of molecular electrostatics and solvation in USM"
+  bio              : "Numerical modeling of molecular electrostatics and solvation in USM"
   location         : "Valparaíso, Chile"
   email            : 
   uri              :
