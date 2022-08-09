@@ -34,6 +34,14 @@ BS, Mechanical Engineering (USM).
 Topic: FEM-BEM coupling
 </span>
 
+### Manuel Ruiz Rodríguez
+Visiting student from Politecnico di Milano.
+
+<span style="font-size: 12pt;">
+BS Instituto Tecnológico de Durango, MS University of Basel.<br>
+Topic: hydrogenases-surface interaction.
+</span>
+
 ## MS students
 
 ### Miguel Godoy
