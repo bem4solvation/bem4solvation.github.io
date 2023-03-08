@@ -34,15 +34,34 @@ BS, Mechanical Engineering (USM).
 Topic: FEM-BEM coupling
 </span>
 
-### Manuel Ruiz Rodríguez
-Visiting student from Politecnico di Milano.
+## MS students
+
+### Martín Achondo
+![](){:width="200px"}
 
 <span style="font-size: 12pt;">
-BS Instituto Tecnológico de Durango, MS University of Basel.<br>
-Topic: hydrogenases-surface interaction.
+<a href="http://github.com/"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
+BS, Mechanical Engineering (USM).  
+Topic: physics-informed neural networks for the PB equation 
 </span>
 
-## MS students
+### Eduardo Hasbún
+![](){:width="200px"}
+
+<span style="font-size: 12pt;">
+<a href="http://github.com/"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
+BS, Mechanical Engineering (USM).  
+Topic: convolutional neural networks for the PB equation 
+</span>
+
+### Willy Menacho
+![](){:width="200px"}
+
+<span style="font-size: 12pt;">
+<a href="http://github.com/"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
+BS, Physics (, Bolivia).  
+Topic: charge regulation 
+</span>
 
 ### Miguel Godoy
 ![](../assets/images/foto_miguel.jpg){:width="200px"}
@@ -56,57 +75,40 @@ Topic: uncertainty quantification, PBJ development
 
 ## Undergraduate students
 
-### Kenneth Styles
-![](../assets/images/foto_kenneth.jpg){:width="200px"}
-
-<span style="font-size: 12pt;"> 
-<a href="http://github.com/kstylesc"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/in/kennethstyles" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
-Topic: hydration asymmetry, PBJ development
-</span>
-
 ### Camila Pérez
 ![](../assets/images/foto_camila.jpg){:width="200px"}
 
 <span style="font-size: 12pt;"> 
 <a href="http://github.com/bem4solvation"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/in/camila-pérez-verdejo-b238221b8/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
-Topic: RNA-virus interaction 
+Topic: nonlinear PB
 </span>
 
-### Stefan Search
-![](../assets/images/foto_stefan.jpeg){:width="200px"}
+### Byron Vega
+![](){:width="200px"}
 
 <span style="font-size: 12pt;"> 
-<a href="http://github.com/sdsearch"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
-BS, PEng Mechanical Engineering (USM)  
-Topic: boundary integral formulations, PBJ development 
+<a href="http://github.com/bem4solvation"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
+Topic: nonlinear PB
 </span>
 
-### Elmo Begazo
-![](../assets/images/foto_elmo.png){:width="200px"}
+### Nehemías Sandoval
+![](){:width="200px"}
 
 <span style="font-size: 12pt;"> 
-<a href="http://github.com/"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
-Topic: surface meshes 
+<a href="http://github.com/bem4solvation"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
+Topic: ML for adaptive mesh refinement
 </span>
 
-### Ignacio Muñoz
-![](../assets/images/foto_ignacio.jpg){:width="200px"}
 
-<span style="font-size: 12pt;"> 
-<a href="http://github.com/"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
-Co-adviced with José Antonio Gárate (UV)  
-Topic: free energy calculations, nonpolar solvation
-</span>
 
-### Ian Addison-Smith
-![](../assets/images/foto_ian.jpeg){:width="200px"}
-
-<span style="font-size: 12pt;"> 
-<a href="http://github.com/iaddison-smith"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/in/ian-addison-smith-a4abb4180/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
-Topic: force calculation
-</span>
 
 ## Past members
+ * Manuel Ruiz (visiting PhD student). Topic: hydrogenase-surface interaction
+ * Ian Addison-Smith (BS, PEng). Topic: electrostatic force
+ * Ignacio Muñoz (BS, PEng). Topic: nonpolar solvation free energy
+ * Elmo Begazo (BS, PEng). Topic: adaptive mesh refinement
+ * Stefan Search (BS, Peng). Topic: PBJ software development, boundary integral formulations
+ * Kenneth Styles (BS, PEng). Topic: SLIC, PBJ software development. 
  * Felipe Vicencio (BS, PEng). Topic: polarizable force fields.
  * Matías Martínez (MS). Topic: virus-scale simulations, parallel computing
  * Javier Gómez (MS). Topic: Stokes flow in biological systems
