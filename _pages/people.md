@@ -37,30 +37,30 @@ Topic: FEM-BEM coupling
 ## MS students
 
 ### Martín Achondo
-![](){:width="200px"}
+![](../assets/images/foto_martin.png){:width="200px"}
 
 <span style="font-size: 12pt;">
-<a href="http://github.com/"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
+<a href="https://github.com/MartinAchondo"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/in/mart%C3%ADn-achondo-mercado-49aa00247" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
 BS, Mechanical Engineering (USM).  
 Topic: physics-informed neural networks for the PB equation 
 </span>
 
 ### Eduardo Hasbún
-![](){:width="200px"}
+![](../assets/images/foto_eduardo.png){:width="200px"}
 
 <span style="font-size: 12pt;">
-<a href="http://github.com/"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
+<a href="https://github.com/EduardoHasbun"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
 BS, Mechanical Engineering (USM).  
 Topic: convolutional neural networks for the PB equation 
 </span>
 
 ### Willy Menacho
-![](){:width="200px"}
+![](../assets/images/foto_willy.png){:width="200px"}
 
 <span style="font-size: 12pt;">
-<a href="http://github.com/"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
+<a href="https://github.com/willymenacho"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
 BS, Physics (, Bolivia).  
-Topic: charge regulation 
+Topic: protein-RNA interaction 
 </span>
 
 ### Miguel Godoy
@@ -75,24 +75,15 @@ Topic: uncertainty quantification, PBJ development
 
 ## Undergraduate students
 
-### Camila Pérez
-![](../assets/images/foto_camila.jpg){:width="200px"}
-
-<span style="font-size: 12pt;"> 
-<a href="http://github.com/bem4solvation"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/in/camila-pérez-verdejo-b238221b8/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
-Topic: nonlinear PB
-</span>
-
 ### Byron Vega
-![](){:width="200px"}
+![](../assets/images/foto_byron.png){:width="200px"}
 
 <span style="font-size: 12pt;"> 
-<a href="http://github.com/bem4solvation"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
+<a href="https://github.com/ByronVegaL"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/in/byron-alexander-vega-lagos-309639169" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
 Topic: nonlinear PB
 </span>
 
 ### Nehemías Sandoval
-![](){:width="200px"}
 
 <span style="font-size: 12pt;"> 
 <a href="http://github.com/bem4solvation"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
@@ -103,6 +94,7 @@ Topic: ML for adaptive mesh refinement
 
 
 ## Past members
+ * Camila Pérez (BS, PEng). Topic: linear/nonlinear PB
  * Manuel Ruiz (visiting PhD student). Topic: hydrogenase-surface interaction
  * Ian Addison-Smith (BS, PEng). Topic: electrostatic force
  * Ignacio Muñoz (BS, PEng). Topic: nonpolar solvation free energy
@@ -123,8 +115,10 @@ Topic: ML for adaptive mesh refinement
  * Lorena A. Barba (GWU, US)
  * Jaydeep P. Bardhan (PNNL, US)
  * Timo Betcke (UCL, UK)
+ * Michal Bosy (Kingston, UK)
  * Jehanzeb H. Chaudhry (UNM, US)
+ * Marcia Fenley (FSU, US)
  * Carlos D. García (Clemson, US)
- * Horacio V. Guzmán (JZI, Slovenia)
+ * Horacio V. Guzmán (UAM, Spain and JZI, Slovenia)
  * Elwin van't Wout (PUC, Chile)
 
