@@ -59,7 +59,7 @@ Topic: convolutional neural networks for the PB equation
 
 <span style="font-size: 12pt;">
 <a href="https://github.com/willymenacho"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
-BS, Physics (, Bolivia).  
+BS, Physics (UMSA, Bolivia).  
 Topic: protein-RNA interaction 
 </span>
 
