@@ -21,7 +21,7 @@ BS, PEng (USM), MS, PhD (Boston University) Mechanical Engineering. <a href="../
 
 <span style="font-size: 12pt;">
 <a href="http://github.com/bem4solvation"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/in/sergio-urzua-67160154" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
-BS, PEng, Mechanical Engineering (USM).  
+BS, PEng, MS, Mechanical Engineering (USM).  
 Topic: protein-surface interaction
 </span>
 
@@ -30,7 +30,7 @@ Topic: protein-surface interaction
 
 <span style="font-size: 12pt;">
 <a href="http://github.com/bem4solvation"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
-BS, Mechanical Engineering (USM).  
+BS, PEng, MS, Mechanical Engineering (USM).  
 Topic: FEM-BEM coupling
 </span>
 
