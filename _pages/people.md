@@ -75,11 +75,10 @@ Topic: uncertainty quantification, PBJ development
 
 ## Undergraduate students
 
-### Byron Vega
-![](../assets/images/foto_byron.png){:width="200px"}
+### Gonzalo Rojas
 
 <span style="font-size: 12pt;"> 
-<a href="https://github.com/ByronVegaL"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/in/byron-alexander-vega-lagos-309639169" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
+<a href="https://github.com/bem4solvation"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/in/gonzalo-rojas-oñate-031016221/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
 Topic: nonlinear PB
 </span>
 
@@ -94,6 +93,7 @@ Topic: ML for adaptive mesh refinement
 
 
 ## Past members
+ * Byron Vega (BS, PEng). Topic: linear/nonlinear PB
  * Camila Pérez (BS, PEng). Topic: linear/nonlinear PB
  * Manuel Ruiz (visiting PhD student). Topic: hydrogenase-surface interaction
  * Ian Addison-Smith (BS, PEng). Topic: electrostatic force
