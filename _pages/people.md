@@ -36,15 +36,6 @@ Topic: FEM-BEM coupling
 
 ## MS students
 
-### Martín Achondo
-![](../assets/images/foto_martin.png){:width="200px"}
-
-<span style="font-size: 12pt;">
-<a href="https://github.com/MartinAchondo"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/in/mart%C3%ADn-achondo-mercado-49aa00247" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
-BS, Mechanical Engineering (USM).  
-Topic: physics-informed neural networks for the PB equation 
-</span>
-
 ### Eduardo Hasbún
 ![](../assets/images/foto_eduardo.png){:width="200px"}
 
@@ -54,24 +45,14 @@ BS, Mechanical Engineering (USM).
 Topic: convolutional neural networks for the PB equation 
 </span>
 
-### Willy Menacho
-![](../assets/images/foto_willy.png){:width="200px"}
+### Felipe Vicencio
+![](../assets/images/foto_felipe.jpeg){:width="200px"}
 
 <span style="font-size: 12pt;">
-<a href="https://github.com/willymenacho"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
-BS, Physics (UMSA, Bolivia).  
-Topic: protein-RNA interaction 
+<a href="https://github.com/fvicencioh"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/in/felipe-vicencio-hidalgo-18aaa41b7/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
+BS, PEng, Mechanical Engineering (USM)
+Topic: polarizable force fields
 </span>
-
-### Miguel Godoy
-![](../assets/images/foto_miguel.jpg){:width="200px"}
-
-<span style="font-size: 12pt;">
-<a href="http://github.com/mgodoydiaz"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/in/miguel-godoy-d%C3%ADaz-811730130/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
-BS, PEng, Mechanical Engineering (USM).  
-Topic: uncertainty quantification, PBJ development 
-</span>
-
 
 ## Undergraduate students
 
@@ -79,20 +60,22 @@ Topic: uncertainty quantification, PBJ development
 
 <span style="font-size: 12pt;"> 
 <a href="https://github.com/bem4solvation"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/in/gonzalo-rojas-oñate-031016221/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
-Topic: nonlinear PB
+Topic: ML for adaptive mesh refinement
 </span>
 
 ### Nehemías Sandoval
 
 <span style="font-size: 12pt;"> 
 <a href="http://github.com/bem4solvation"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
-Topic: ML for adaptive mesh refinement
+Topic: ML for error estimation
 </span>
 
 
 
 
 ## Past members
+ * Willy Menacho (MS). Topic: electrostatics in viruses
+ * Martín Achondo (MS). Topic: physics informed neural networks
  * Byron Vega (BS, PEng). Topic: linear/nonlinear PB
  * Camila Pérez (BS, PEng). Topic: linear/nonlinear PB
  * Manuel Ruiz (visiting PhD student). Topic: hydrogenase-surface interaction
@@ -101,7 +84,7 @@ Topic: ML for adaptive mesh refinement
  * Elmo Begazo (BS, PEng). Topic: adaptive mesh refinement
  * Stefan Search (BS, Peng). Topic: PBJ software development, boundary integral formulations
  * Kenneth Styles (BS, PEng). Topic: SLIC, PBJ software development. 
- * Felipe Vicencio (BS, PEng). Topic: polarizable force fields.
+ * Miguel Godoy (BS, PEng). Topic: uncertainty quantification, PBJ development. 
  * Matías Martínez (MS). Topic: virus-scale simulations, parallel computing
  * Javier Gómez (MS). Topic: Stokes flow in biological systems
  * Rodrigo Huencho (BS). Topic: dielectric constant parameterization
@@ -120,5 +103,6 @@ Topic: ML for adaptive mesh refinement
  * Marcia Fenley (FSU, US)
  * Carlos D. García (Clemson, US)
  * Horacio V. Guzmán (UAM, Spain and JZI, Slovenia)
+ * Jaime Pizarro (USACH, Chile)
  * Elwin van't Wout (PUC, Chile)
 
