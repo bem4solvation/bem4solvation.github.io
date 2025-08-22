@@ -36,14 +36,6 @@ Topic: FEM-BEM coupling
 
 ## MS students
 
-### Eduardo Hasbún
-![](../assets/images/foto_eduardo.png){:width="200px"}
-
-<span style="font-size: 12pt;">
-<a href="https://github.com/EduardoHasbun"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
-BS, Mechanical Engineering (USM).  
-Topic: convolutional neural networks for the PB equation 
-</span>
 
 ### Felipe Vicencio
 ![](../assets/images/foto_felipe.jpeg){:width="200px"}
@@ -56,6 +48,51 @@ Topic: polarizable force fields
 
 ## Undergraduate students
 
+
+### Vicente Barrera
+
+<span style="font-size: 12pt;"> 
+<a href="http://github.com/bem4solvation"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
+Topic: PB calculations in electroflotation
+</span>
+
+### Christian Herrera
+
+<span style="font-size: 12pt;"> 
+<a href="http://github.com/bem4solvation"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/in/christian-herrera-vergara-b42095335/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
+Topic: Protein-surface interaction
+</span>
+
+### Ivan Ianiszewski
+
+<span style="font-size: 12pt;"> 
+<a href="http://github.com/bem4solvation"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/in/ivan-ianiszewski-lay-1253362a0/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
+Topic: dipolar PB
+</span>
+
+### Francisca Silva
+
+<span style="font-size: 12pt;"> 
+<a href="http://github.com/bem4solvation"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
+Topic: Protein-surface interaction for biosensors
+</span>
+
+### Joseline Villagrán 
+(co-guided with Harvey Zambrano)
+
+<span style="font-size: 12pt;"> 
+<a href="http://github.com/bem4solvation"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/in/joseline-villagran-9a0a692b3/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
+Topic: interfacial solvent
+</span>
+
+### Gaspar Vuchetich
+
+<span style="font-size: 12pt;"> 
+<a href="http://github.com/bem4solvation"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/in/ivan-ianiszewski-lay-1253362a0/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
+Topic: dipolar PB
+</span>
+
+
 ### Gonzalo Rojas
 
 <span style="font-size: 12pt;"> 
@@ -63,17 +100,13 @@ Topic: polarizable force fields
 Topic: ML for adaptive mesh refinement
 </span>
 
-### Nehemías Sandoval
-
-<span style="font-size: 12pt;"> 
-<a href="http://github.com/bem4solvation"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
-Topic: ML for error estimation
-</span>
 
 
 
 
 ## Past members
+ * Eduardo Hasbún (MS). Topic: Convolutional neural networks to solve the Poisson equation
+ * Nehemías Sandoval (BS, PEng). Topic: ML for adaptive mesh refinement
  * Willy Menacho (MS). Topic: electrostatics in viruses
  * Martín Achondo (MS). Topic: physics informed neural networks
  * Byron Vega (BS, PEng). Topic: linear/nonlinear PB
