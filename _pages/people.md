@@ -46,6 +46,15 @@ BS, PEng, Mechanical Engineering (USM)
 Topic: polarizable force fields
 </span>
 
+### Ivan Ianiszewski
+![](../assets/images/foto_ivan.jpeg){:width="200px"}
+
+<span style="font-size: 12pt;">
+<a href="https://github.com/bem4solvation"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/in/ivan-ianiszewski-lay-1253362a0/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
+BS, Mechanical Engineering (USM)
+Topic: dipolar Poisson-Boltzmann equation
+</span>
+
 ## Undergraduate students
 
 
@@ -61,13 +70,6 @@ Topic: PB calculations in electroflotation
 <span style="font-size: 12pt;"> 
 <a href="http://github.com/bem4solvation"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/in/christian-herrera-vergara-b42095335/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
 Topic: Protein-surface interaction
-</span>
-
-### Ivan Ianiszewski
-
-<span style="font-size: 12pt;"> 
-<a href="http://github.com/bem4solvation"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/in/ivan-ianiszewski-lay-1253362a0/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
-Topic: dipolar PB
 </span>
 
 ### Francisca Silva
@@ -88,8 +90,8 @@ Topic: interfacial solvent
 ### Gaspar Vuchetich
 
 <span style="font-size: 12pt;"> 
-<a href="http://github.com/bem4solvation"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/in/ivan-ianiszewski-lay-1253362a0/" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
-Topic: dipolar PB
+<a href="http://github.com/bem4solvation"><i class="fa fa-fw fa-github" aria-hidden="true"></i> GitHub</a> <a href="https://www.linkedin.com/in//" itemprop="sameAs"> <i class="fa fa-fw fa-linkedin-square" aria-hidden="true"></i> LinkedIn</a>  
+Topic: electrostatics in viruses
 </span>
 
 
